@@ -52,6 +52,10 @@ Jordi Ayala - [@ASJordi](https://twitter.com/ASJordi)
 
 Project link: [https://github.com/ASJordi/asjordi.link](https://github.com/ASJordi/asjordi.link)
 
+## Acknowledgments
+
+* [LittleLink](https://littlelink.io)
+
 [contributors-shield]: https://img.shields.io/github/contributors/ASJordi/asjordi.link.svg?style=for-the-badge
 [contributors-url]: https://github.com/ASJordi/asjordi.link/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/ASJordi/asjordi.link.svg?style=for-the-badge
